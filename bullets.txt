@@ -1,0 +1,353 @@
+RECENT EXPERIENCE 
+BANK OF AMERICA           
+Vice President, Digital Strategy Execution Lead – Merrill Lynch       
+January 2017 – December 2021  
+• Reported to the head of Digital Wealth Management and managed a team of 6 product managers and Analysts  
+• Managed roadmap and digital product strategy for three high profile projects. Client Engagement Workstation, AI Driven Next 
+Best Action Tool & Digital Client Onboarding Tool  
+• Launched AI Driven Next Best Action Tool that analyzes Bank of America credit card & banking transaction data to analyze two 
+million Wealth Management Client’s spending behavior. It searches for big life events, like job changes, new real-estate 
+investments & large deposits and prompts the advisor to preemptively start important conversations with clients  
+o The tool has brought in 800+ new accounts and $1.1 billion in additional AUM since inception  
+• Moved away from a legacy desktop-based advisor platform and led the development of a web based multiplatform workstation 
+called Client Engagement Workstation. The platform has won multiple industry awards since launch 
+o Re-negotiated legacy market data contracts. Moved away from Reuters and signed a new contract with FactSet to provide 
+on demand market data for 25K Merrill Lynch advisors. Saving the company $10 Million per year in recurring market 
+data charges 
+o Worked with analytics teams to understand user behavior in order to understand user pain points. Added new features to 
+the roadmap to remedy the issues  
+o Worked with the adoption team to create training and adoption strategy for all of Merrill Lynch advisors and offices  
+• Worked on launching an end-to-end Client Digital Onboarding tool that removes the steps that require physical signature of paper 
+documents. This tool is first in the Wealth Management industry, and it has played a key role in continued business operation 
+during covid lockdown 
+• Prepared compelling business cases and sold concepts ideas to acquire funding from senior management including COO of Merrill 
+Lynch and Board of Directors of Bank of America  
+BANK OF AMERICA           
+Assistant Vice President, Digital Analytics – Merrill Edge       
+January 2015 – January 2017  
+• Played a key role in building business case for the implementation of Adobe Analytics at Bank of America as a replacement to less 
+effective legacy in house digital analytics systems 
+• Project Lead - Managed the implementation of Adobe Analytics using agile methodology, interacted with multiple stakeholders 
+including marketing, technical teams, and senior management 
+• Focused on continuous conversion rate optimization, conducting various multivariate and A/B tests using Adobe target, resulting in 
+improved conversion rates for various areas of the business 
+• Compiled and analyzed data and from various internal and external data sources such as digital / web analytics, customer contacts, 
+call center metrics & various offline data sources 
+• Hosted monthly site performance meetings with a focus on improving key business functions through data-driven decisions, 
+including sales, funded account performance, marketing strategy, thought leadership and customer retention 
+• Identified a key trend in customer traffic switching from traditional desktop to mobile users, leading to the development of a more 
+robust mobile customer portal and an improved overall mobile experience 
+• Worked closely with internal and external technology teams to develop a clustering based online behavioral analysis tool used to 
+better understand and measure how clients interact with the website and platform
+
+WORK EXPERIENCE
+ Wells Fargo
+ Vice President - Digital Analytics
+ 
+ 
+ New York • 2021 - Present
+ Led the business case development for implementing Adobe Analytics, replacing less effective legacy systems.
+ Managed the Adobe Analytics implementation using agile methodology, coordinating with marketing, technical
+ teams, and senior management.
+
+ Spearheaded the development of a real-time dashboard using Tableau, providing executives with instant access to
+ key performance metrics and facilitating data-driven decision making.
+ Enhanced conversion rates through continuous optimization, executing multivariate and A/B tests using Adobe
+ Target, achieving a 15% increase in conversion.
+ Hosted monthly site performance meetings to improve key business functions such as sales, marketing strategies, and
+ customer retention.
+ Collaborated with internal and external teams to create a clustering-based behavioral analysis tool to better
+ understand client interactions.
+ Spearheaded the integration of first-party data with third-party sources, creating a unified customer view that
+ enhanced personalization efforts and improved cross-sell success rates by 6%.
+ Developed ROI calculation methodologies with Data Science and Research teams, leading comprehensive campaign
+ reviews and enhancing marketing effectiveness.
+ Established a KPI framework for marketing channels, increasing marketing ROI and campaign performance.
+ Developed and implemented a comprehensive data governance framework, ensuring data quality, privacy
+ compliance, and efficient data management across the organization.
+ Designed and launched an internal analytics training program, upskilling over 100 employees across various
+ departments and promoting a data-driven culture company-wide.
+ Bank Of America
+ Vice President - Strategy Execution Lead
+ 
+ New York • 2015 - 2021
+ Created compelling business cases and secured funding from senior management, including the COO of Merrill
+ Lynch and the Board of Directors.
+ Analyzed user behavior and conversion data on merrilledge.com, enhancing customer experience and engagement.
+ Employed data storytelling techniques to present complex insights to senior leadership, supporting strategic decision
+making.
+ Designed and executed A/B and multivariate tests to optimize merrilledge.com performance.
+ Worked closely with marketing teams to implement advanced analytics tools on merrilledge.com, improving
+ customer behavior tracking.
+ Conducted in-depth analyses of business trends, supporting go-to-market strategies and business performance.
+ Utilized advanced web analytics and SEO strategies to enhance merrilledge.com content visibility and performance.
+ Leveraged reporting and Tableau dashboards to identify user behavior and pain points, driving strategies that
+ improved user adoption and satisfaction for Digital Wealth Management initiatives.
+ Developed and deployed a real-time anomaly detection system for transactional data.
+
+  Goldman Sachs
+ Vice President - Cloud Engineer
+ •
+ •
+ Jan 2022 - Present
+ Architected and deployed cloud-based data warehouses like Snowflake, optimizing storage and compute costs by 30%
+ Automated infrastructure provisioning using Terraform and Ansible, reducing deployment time for new environments by
+ 50%.
+
+ Designed and implemented highly available cloud architectures for real-time analytics platforms, ensuring 99.9% uptime.
+ Integrated Kubernetes clusters to manage containerized workloads, improving scalability and resource utilization by
+ 40%.
+ Implemented monitoring solutions using Prometheus and Grafana, enhancing system observability and reducing incident
+ resolution time
+ Migrated on-premises workloads to AWS and GCP, minimizing downtime and achieving seamless transition to the cloud.
+ Enhanced data processing workflows by deploying Databricks for ETL jobs, improving job completion times by 25%
+ Worked closely with engineering teams to design disaster recovery (DR) solutions, ensuring compliance with business
+ continuity standards.
+ Trained teams on cloud best practices and tools, fostering a cloud-first mindset across the organization.
+ Led the integration of serverless computing solutions like AWS Lambda to handle event-driven workflows, reducing
+ infrastructure costs and increasing scalability.
+ Bank of America
+ Vice President - Cloud Engineer
+ 
+ Jan 2015 - Dec 2021
+ Spearheaded the migration of legacy data systems to BigQuery, achieving faster query times and enhanced analytics
+ capabilities.
+
+ Automated cloud resource provisioning and scaling using Infrastructure as Code (IaC) tools like Terraform and
+ CloudFormation.
+ Optimized cloud costs through resource tagging, auto-scaling policies, and usage monitoring, achieving a 20% cost
+ reduction.
+ Deployed Docker containers and implemented microservices architectures, increasing system reliability and deployment
+ speed.
+ Designed and implemented data storage solutions using Delta Lake for structured and semi-structured data, improving
+ accessibility.
+ Collaborated with cross-functional teams to develop and maintain secure cloud environments, ensuring adherence to
+ compliance standards.
+ Streamlined cloud operations by integrating API gateways and serverless functions, reducing latency and operational
+ complexity.
+ Conducted cloud environment audits and implemented governance policies, mitigating security risks and enhancing
+ system reliability.
+ Enhanced data security by implementing IAM policies and role-based access controls, ensuring compliance with
+ stringent financial industry regulations.
+ Deployed cloud-native load balancers and auto-healing mechanisms, increasing the resilience and uptime of customer
+facing applications by 20%.
+ Goldman Sachs
+ Vice President - Data Engineer
+ •
+ Jan 2022 - Present
+ Engineered data workflows using Airflow to orchestrate complex DAG-based ETL processes, ensuring reliable and
+ efficient data pipeline execution
+
+ Designed and maintained CI/CD pipelines for data workflows, enabling rapid deployment and consistent quality across
+ multiple environments
+ Developed dbt models to transform raw data into actionable datasets, improving analytics accessibility for marketing and
+ product teams
+ Built streaming data pipelines to enable near real-time insights for customer engagement metrics, reducing time-to
+decision for key stakeholders
+ Optimized Snowflake queries and storage structures, reducing processing costs by 30% and improving overall system
+ performance
+ Partnered with teams in the tech industry to develop innovative solutions for campaign analytics and engagement metrics
+ Created custom Python scripts for automated data validation, decreasing errors by 25% across critical workflows
+ Integrated third-party APIs and external data sources into the enterprise data ecosystem, enriching datasets for advanced
+ analytics
+ Led a data migration from legacy systems to cloud platforms with zero downtime, ensuring seamless integration with
+ existing tools
+ Conducted data lineage and governance analysis, ensuring compliance with internal and external regulatory requirements
+ Collaborated with cross-functional teams to design data solutions for Marcus by Goldman Sachs, driving a 25% increase
+ in customer acquisition efficiency
+ Bank of America
+ Vice President - Data Engineer
+
+ Jan 2015 - Dec 2021
+ Architected and managed data pipelines using Airflow and dbt to centralize and automate marketing performance metrics
+ Partnered with technology teams to deploy ETL workflows using Spark and Databricks, enhancing scalability and
+ processing speed
+
+ Optimized BigQuery and Snowflake cloud-based data warehouses, improving query efficiency and cutting data retrieval
+ times by 40%
+ Designed real-time dashboards in Tableau and Power BI, enabling executives to monitor KPIs such as CAC and CLV
+ with up-to-the-minute accuracy
+ Conducted advanced data wrangling and transformation, ensuring data quality and consistency across all reporting layers
+ Enhanced targeting precision by designing Python-based data ingestion workflows, driving a 20% increase in campaign
+ effectiveness.
+ Directed implementation of A/B testing frameworks, integrating results into predictive analytics models for improved
+ customer segmentation
+ Led cross-functional projects to automate reporting pipelines, reducing manual effort by 50% and expediting time-to
+insight
+ Mentored junior analysts and engineers, fostering expertise in cloud technologies, data modeling, and orchestration tools
+  Goldman Sachs
+ Vice President - Data Product Manager
+ •
+ Jan 2022 - Present
+ Defined and executed the product roadmap for data platforms, aligning with business objectives and delivering a 25%
+ increase in operational efficiency.
+
+ Collaborated with data engineering teams to develop scalable data pipelines, ensuring seamless integration of third-party
+ data sources into existing systems.
+ Led the implementation of real-time analytics dashboards, providing actionable insights to stakeholders and reducing
+ decision-making time by 40%.
+ Partnered with marketing and product teams to prioritize and launch data-driven features, driving an 18% uplift in
+ customer engagement for Marcus products.
+ Spearheaded the transition to cloud-based data solutions like Snowflake, enabling faster data access and scalability for
+ analytics teams.
+ Drove adoption of data governance frameworks, improving data quality and compliance across business units.
+ Engaged stakeholders across finance and tech to ensure alignment on data product requirements and deliverables.
+ Introduced AI-driven recommendation engines to enhance customer personalization, resulting in a 15% increase in
+ product cross-sell rates.
+ Conducted in-depth market research and competitor analysis to identify opportunities for data product innovation, leading
+ to the launch of new analytics tools that improved decision-making across teams.
+ Led the development of API integrations for external data providers, streamlining data ingestion processes and enabling
+ real-time insights for business-critical decisions.
+ Bank of America
+ Vice President - Data Product Manager
+ 
+ Jan 2015 - Dec 2021
+ Defined and prioritized product backlogs for data analytics tools, leading to a 20% increase in campaign effectiveness
+ through better insights.
+
+ Worked with cross-functional teams to design and implement self-service analytics platforms, enabling faster data-driven
+ decisions for marketing teams.
+ Championed the use of predictive analytics models, improving targeting precision and driving a 25% growth in high-net
+worth client acquisition.
+ Managed the end-to-end rollout of customer segmentation features, leveraging data insights to refine personalization
+ strategies and increase ROI.
+ Designed and implemented data storage solutions using Delta Lake for structured and semi-structured data, improving
+ accessibility.
+ Oversaw the integration of cloud-based data warehouses like BigQuery, reducing latency in data retrieval by 40%.
+ Partnered with data scientists and engineers to design machine learning features, enhancing campaign optimization for
+ digital products.
+ Conducted stakeholder workshops to align on key performance metrics (KPIs), ensuring the data product roadmap met
+ business goals.
+ Ensured compliance with financial regulations by implementing robust data access controls and governance practices
+ Vice President - Data Scientist
+ •
+ Jan 2022 - Present
+ Developed and deployed advanced machine learning models to predict customer behavior, increasing retention rates by
+ 20%
+
+ Conducted predictive analytics to forecast customer lifetime value (CLV), enabling more effective marketing strategies
+ and a 15% ROI increase
+ Leveraged Python and scikit-learn to design custom models for churn prediction and segmentation, improving customer
+ retention efforts
+ Built natural language processing (NLP) pipelines for text analysis, extracting insights from customer feedback and
+ improving product offerings
+ Designed real-time dashboards using Tableau, providing actionable insights into campaign performance for cross
+functional teams
+ Partnered with teams in the tech industry to develop innovative solutions for campaign analytics and engagement metrics
+ Utilized cloud-based analytics platforms like Snowflake to scale machine learning workflows, cutting processing times
+ by 30%
+ Analyzed multi-channel marketing data to identify trends, optimizing campaign targeting strategies and improving
+ conversion rates by 18%
+ Mentored junior data scientists in machine learning techniques and statistical analysis, fostering a high-performance
+ analytics team
+ Bank of America
+ Vice President - Data Scientist
+ •
+ Jan 2015 - Dec 2021
+ Created customer segmentation models using K-means clustering and hierarchical clustering, driving a 20% uplift in
+ campaign effectiveness
+
+ Applied linear regression and logistic regression to optimize high-net-worth client targeting strategies, improving
+ engagement by 25%
+ Built time-series forecasting models to predict financial trends, informing data-driven decisions across marketing and
+ product teams
+ Conducted exploratory data analysis (EDA) to uncover actionable insights, enhancing marketing strategy and reducing
+ acquisition costs
+ Deployed TensorFlow-based deep learning models to identify key drivers of customer churn, reducing churn rates by
+ 12%
+ Designed and executed A/B testing frameworks, integrating results into decision-making processes for digital and
+ traditional campaigns
+ Led the development of data visualization dashboards in Tableau and Power BI, simplifying complex analyses for
+ stakeholders
+ Led cross-functional projects to automate reporting pipelines, reducing manual effort by 50% and expediting time-to
+insight
+ Conducted feature engineering and data cleaning, improving model accuracy and reliability across all analytics projects.
+ WORK EXPERIENCE
+ Goldman Sachs
+ Vice President - Data Product Manager
+ •
+ Jan 2022 - Present
+ Defined and executed the product roadmap for customer-facing platforms, delivering a 25% improvement in user
+ engagement.
+
+ Partnered with engineering teams to launch new product features, increasing customer satisfaction scores by 18%.
+ Conducted user research and customer journey mapping, uncovering pain points and implementing solutions that boosted
+ retention.
+ Spearheaded the development of real-time performance dashboards, enabling quicker decision-making for internal teams.
+ Led cross-functional teams in the design and delivery of mobile-first experiences, driving adoption of digital tools by
+ 30%.
+ Prioritized and managed the product backlog using Agile methodologies, ensuring on-time delivery of key initiatives.
+ Collaborated with marketing to align product positioning and messaging, enhancing the go-to-market strategy.
+ Conducted competitive analysis to identify market trends and inform product development priorities.
+ Established a feedback loop with stakeholders to iterate on product features and improve usability.
+ Managed a $10M product development budget, ensuring efficient resource allocation and project success.
+ Built and maintained relationships with external vendors to integrate third-party tools, enhancing platform capabilities
+ and reducing development costs by 10%.
+ Identified and resolved bottlenecks in the product delivery process, streamlining workflows and accelerating the release
+ of key features by 25%.
+ Bank of America
+ Vice President - Data Product Manager
+ •
+ •
+ Jan 2015 - Dec 2021
+ Defined the product vision and strategy for customer acquisition platforms, resulting in a 20% increase in new accounts.
+ Oversaw the development of self-service platforms, empowering users and reducing reliance on support teams.
+
+ Launched new personalization features, improving user satisfaction and increasing revenue by 15%.
+ Partnered with design teams to create intuitive UI/UX solutions, reducing user onboarding time by 25%.
+ Drove cross-functional collaboration to align product goals with company objectives, delivering measurable business
+ impact.
+ Conducted market research to assess customer needs and prioritize features that enhanced the competitive edge.
+ Managed the entire product lifecycle, from concept to launch, ensuring alignment with business and technical
+ requirements.
+ Worked with compliance teams to ensure all product launches adhered to industry regulations and standards.
+ Provided executive-level reporting on key performance metrics, influencing strategic decisions across departments.
+ Drove the adoption of OKRs (Objectives and Key Results) across product teams, improving alignment on goals and
+ achieving a 15% increase in team productivity.
+ Developed and implemented go-to-market strategies for new product launches, resulting in a 20% faster time-to-market
+ and improved customer adoption rates
+
+  Goldman Sachs
+ Vice President - Marketing Analytics
+ •
+ Jan 2022 - Present
+ Led marketing analytics initiatives for Marcus by Goldman Sachs, optimizing customer acquisition campaigns across
+ digital and traditional channels, driving a 25% increase in new account growth
+
+ Developed real-time performance dashboards using Tableau and SQL to provide actionable insights, reducing reporting
+ turnaround by 40% and enabling quicker decision-making
+ Partnered with cross-functional teams to execute data-driven strategies, enhancing campaign ROI by integrating
+ Marketing Mix Optimization (MMO) and Multi-Touch Attribution (MTA) frameworks
+ Analyzed customer lifetime value (CLV) and engagement metrics to refine retention strategies, contributing to a 15%
+ increase in long-term customer loyalty
+ Championed the adoption of cloud-based analytics platforms to improve data accessibility and scalability, enabling
+ Marcus to remain competitive in the fintech space
+ Designed and implemented advanced statistical models, including predictive analytics and customer segmentation, to
+ improve personalization and marketing efficiency
+ Collaborated with product and marketing teams to optimize digital touchpoints, improving conversion rates for Marcus
+ personal loans and savings products by 18%
+ Directed A/B testing and experimentation programs to evaluate marketing tactics, informing strategy for a $50M+ annual
+ marketing budget
+ Bank of America
+ Vice President - Marketing Analytics
+ •
+ Jan 2015 - Dec 2021
+ Directed marketing analytics for Merrill Edge's digital investment products, optimizing acquisition and engagement
+ strategies to increase customer base by 30% over three years
+
+ Developed predictive models and customer segmentation frameworks to enhance targeting precision, driving a 20%
+ increase in campaign effectiveness for high-net-worth clients
+ Conducted advanced performance analysis on paid and owned media channels, uncovering insights that informed
+ strategic adjustments and improved lead conversion rates
+ Partnered with product and technology teams to implement automated reporting solutions, reducing manual effort by
+ 50% and accelerating decision-making cycles
+ Built and maintained dashboards in Tableau and Power BI, providing executives with real-time visibility into key
+ marketing metrics such as customer acquisition cost (CAC) and lifetime value (CLV)
+ Achieved a 12% uplift in conversion rates within 3 months by refining messaging and creative strategies based on
+ rigorous A/B testing and analytics insights.
+ Collaborated with compliance and legal teams to ensure adherence to financial regulations while driving innovation in
+ marketing analytics
+ Mentored and developed a team of analysts, fostering expertise in advanced statistical techniques and cutting-edge
+ marketing technologies
+
+ 
