@@ -1,6 +1,6 @@
 import streamlit as st
 from openai import OpenAI
-from config import OPENAI_API_KEY, PASSWORD
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 from io import BytesIO
 import os
 from reportlab.lib import colors
