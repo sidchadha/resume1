@@ -317,6 +317,9 @@ def create_pdf(name, contact_info, work_experience, education):
         ))
         styles.add(ParagraphStyle(
             name='Contact',
+        ))
+        styles.add(ParagraphStyle(
+            name='Contact',
             parent=styles['Normal'],
             fontSize=10,
             spaceAfter=20,
