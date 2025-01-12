@@ -1,6 +1,5 @@
 import streamlit as st
 from openai import OpenAI
-OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 from io import BytesIO
 import os
 from reportlab.lib import colors
@@ -12,7 +11,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 # Initialize OpenAI client
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Initialize session state
 if 'resume_bullets' not in st.session_state:
